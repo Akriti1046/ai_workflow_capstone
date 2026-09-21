@@ -1,6 +1,6 @@
-# AI Workflow: AI in Production — Capstone Template
+# AI Workflow: AI in Production
 
-This repository is a minimal, production-style ML project designed to satisfy Coursera peer-review criteria.
+This repository is a minimal, production-style ML project 
 ## Features
 - FastAPI ML API
 - Unit tests (API, model, logging)
